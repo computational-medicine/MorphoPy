@@ -1,0 +1,19 @@
+name: morphopy
+dependencies:
+- python >= 3.8.0
+- matplotlib
+- conda-forge::matplotlib-scalebar
+- numpy
+- scipy
+- pandas
+- networkx
+- seaborn
+- anaconda::scikit-learn
+- shapely
+- git
+- ipykernel
+- pip
+- jupyter
+- pip:
+  - morphopy
+  

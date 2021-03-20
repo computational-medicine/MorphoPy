@@ -1,0 +1,5 @@
+Download for NLMorphologyConverter:
+http://neuronland.org/NLMorphologyConverter/NLMorphologyConverter.html
+
+To convert from SWC to ASC:
+./NLMorphologyConverter m999999_9_auto_smooth.swc m999999_9_auto_smooth.ASC NeurolucidaASC
